@@ -4,11 +4,11 @@ Hi 👋 My name is Kade Shockey
 Full Stack Developer
 --------------------
 
-I am an MSU Denver Student graduating in the fall of 2024. My experience is in Full Stack development.
+I am an MSU Denver Student graduating in the fall of 2024. My experience is in Full-Stack development.
 
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
-* 🚀  I'm currently working on A full stack application involving React, Tailwind, NodeJS, ExpressJS, and PostgreSQL
+* 🚀  I'm currently working on A full-stack application involving React, Tailwind, NodeJS, ExpressJS, and PostgreSQL. Another App I am currently working on is a full-stack application using Flutter, NodeJS, ExpressJS, MongoDB, and Firebase.
 * 🧠  I'm learning React, Tailwind,
 
 ### Skills
