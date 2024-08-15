@@ -9,7 +9,7 @@ I am an MSU Denver Student graduating in the fall of 2024. My experience is in F
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
 * 🚀  I'm currently working on A full-stack application involving React, Tailwind, NodeJS, ExpressJS, and PostgreSQL. Another App I am currently working on is a full-stack application using Flutter, NodeJS, ExpressJS, MongoDB, and Firebase.
-* 🧠  I'm learning React, Tailwind,
+* 🧠  I'm learning React, Tailwind CSS, and improving my SQL skills
 
 ### Skills
 
