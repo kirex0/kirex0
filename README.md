@@ -9,7 +9,12 @@ I am an MSU Denver Student graduating in the fall of 2024. My experience is in F
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
 * 🚀  I'm currently working on A full-stack application involving React, Tailwind, NodeJS, ExpressJS, and PostgreSQL. Another App I am currently working on is a full-stack application using Flutter, NodeJS, ExpressJS, MongoDB, and Firebase.
-* 🧠  I'm learning React, Tailwind CSS, and improving my SQL skills
+* 🧠  I'm currently learning React, ThreeJS, Blender, and improving my skills with API development using Mongo and Node.
+### Planned Projects:
+- Realtime Chat App
+  - This project will be built using a tech stack consisting of Dart/Flutter for the app interface, MongoDB for data storage, Node.js and Express.js for the backend server, and Firebase Auth for authentication. The design will be crafted in Figma.
+- Portfolio Website
+  - The tech stack for this project will include React and Next.js for frontend development and server-side rendering, Three.js for 3D graphics, and design elements crafted using Blender and Figma.
 
 ### Skills
 
