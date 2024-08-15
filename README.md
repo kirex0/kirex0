@@ -12,9 +12,9 @@ I am an MSU Denver Student graduating in the fall of 2024. My experience is in F
 * 🧠  I'm currently learning React, ThreeJS, Blender, and improving my skills with API development using Mongo and Node.
 ### Planned Projects:
 - Realtime Chat App
-  - This project will be built using a tech stack consisting of Dart/Flutter for the app interface, MongoDB for data storage, Node.js and Express.js for the backend server, and Firebase Auth for authentication. The design will be crafted in Figma.
+  - This project will be built using a tech stack consisting of [Dart/Flutter](https://flutter.dev/) for the app interface, [MongoDB](https://www.mongodb.com/) for data storage, [Node.js](https://nodejs.org/en) and [Express.js](https://expressjs.com/) for the backend server, and [Firebase Auth](https://firebase.google.com/docs/auth) for authentication. The design will be crafted in [Figma](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma). This project will include E2EE (end to end encryption)
 - Portfolio Website
-  - The tech stack for this project will include React and Next.js for frontend development and server-side rendering, Three.js for 3D graphics, and design elements crafted using Blender and Figma.
+  - The tech stack for this project will include [React](https://react.dev/) and [Next.js](https://nextjs.org/) for frontend development and server-side rendering, [Three.js](https://threejs.org/) for 3D graphics, and design elements crafted using [Blender](https://www.blender.org/) and [Figma](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma).
 
 ### Skills
 
