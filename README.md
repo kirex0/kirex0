@@ -1,14 +1,13 @@
-Hi 👋 My name is Kade Shockey
+ Kade Shockey
 =============================
 
 Full Stack Developer
 --------------------
 
-I am an MSU Denver Student graduating in the fall of 2024. My experience is in Full-Stack development.
+I am an MSU Denver Student graduating in the fall of 2024.
 
-* 🌍  I'm based in Colorado
-* ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
-* 🚀  I'm currently working on [Roadrunner Connect](https://roadrunnerconnect.co/) full-stack application involving Dart/Flutter, MongoDB, NodeJS, ExpressJS, and Mongoose.
+* Contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
+* I'm currently working on [Roadrunner Connect](https://roadrunnerconnect.co/) full-stack application involving Dart/Flutter, MongoDB, NodeJS, ExpressJS, and Mongoose.
 
 | Top Languages | GitHub Streak |
 |--------------|--------------|
