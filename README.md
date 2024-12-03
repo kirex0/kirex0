@@ -8,14 +8,8 @@ I am an MSU Denver Student graduating in the fall of 2024. My experience is in F
 
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
-* 🚀  I'm currently working on A full-stack application involving React, Tailwind, NodeJS, ExpressJS, and PostgreSQL. Another App I am currently working on is a full-stack application using Flutter, NodeJS, ExpressJS, MongoDB, and Firebase.
-* 🧠  I'm currently learning React, ThreeJS, Blender, and improving my skills with API development using Mongo and Node.
-### Planned Projects:
-- Realtime Chat App
-  - This project will be built using a tech stack consisting of [Dart/Flutter](https://flutter.dev/) for the app interface, [MongoDB](https://www.mongodb.com/) for data storage, [Node.js](https://nodejs.org/en) and [Express.js](https://expressjs.com/) for the backend server, and [Firebase Auth](https://firebase.google.com/docs/auth) for authentication. The design will be crafted in [Figma](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma). This project will include E2EE (end to end encryption)
-- Portfolio Website
-  - The tech stack for this project will include [React](https://react.dev/) and [Next.js](https://nextjs.org/) for frontend development and server-side rendering, [Three.js](https://threejs.org/) for 3D graphics, and design elements crafted using [Blender](https://www.blender.org/) and [Figma](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma).
-
+* 🚀  I'm currently working on [Roadrunner Connect](https://roadrunnerconnect.co/) full-stack application involving Dart/Flutter, MongoDB, NodeJS, ExpressJS, and Mongoose.
+  
 ### Skills
 
 <p align="left">
