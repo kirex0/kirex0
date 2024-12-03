@@ -9,6 +9,11 @@ I am an MSU Denver Student graduating in the fall of 2024. My experience is in F
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
 * 🚀  I'm currently working on [Roadrunner Connect](https://roadrunnerconnect.co/) full-stack application involving Dart/Flutter, MongoDB, NodeJS, ExpressJS, and Mongoose.
+
+| Top Languages | GitHub Streak |
+|--------------|--------------|
+| ![kirex0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirex0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) | ![kirex0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirex0&theme=tokyonight&hide_border=true)
+  
   
 ### Skills
 
