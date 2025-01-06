@@ -8,7 +8,7 @@ I am a Software Developer with a passion for creating and specializing in Full-S
 
 * Contact me at [kswork9@gmail.com](mailto:kswork9@gmail.com)
 * I'm currently working on [Roadrunner Connect](https://roadrunnerconnect.co/) full-stack application involving Dart/Flutter, MongoDB, NodeJS, ExpressJS, and Mongoose.
-
+--------------------
 * Previous Projects: Spiderbyte - This is a coding challenge website that uses tags and a difficulty rating set by the user, to generate coding challenges tailore to the individual user. The user can select content tags, subject tags, and a difficulty from 1-10. A coding challenge will be generated using Google's Gemini, a solution to the challenge will be generated and verified, and then the challenge will be added to the database for anyone to solve. [Spiderbyte Repositories](https://github.com/stars/kirex0/lists/spiderbyte)
 
 | Top Languages | GitHub Streak |
